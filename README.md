@@ -2,7 +2,7 @@
 
       A passionate Cyber Security analyst from Raleigh, NC, USA
 
-      [I'm an inline-style link](https://www.linkedin.com/in/elvis-njenga23/)
+      [Let's connect on Linkedin](https://www.linkedin.com/in/elvis-njenga23/)
 
 I'm currently learning the basics of computers both the hardware and software, and also learning the basics of Information Technology and Cybersecurity.
 I'm a current work study student working in the Computer lab at my community college and am studying Computer Science. 
