@@ -1,5 +1,7 @@
 ## Hi I'm Elvis👋
 
+I'm currently learning the basics of computers both the hardware and software, and also learning the basics of Information Technology and Cybersecurity.
+I'm a current work study student working in the Computer lab at my community college and am studying Computer Science. 
 <!--
 **ElvisNjenga13/ElvisNjenga13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
