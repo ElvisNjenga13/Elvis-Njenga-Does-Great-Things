@@ -1,4 +1,8 @@
-## Hi I'm Elvis👋
+## Hi👋, I'm Elvis Njenga
+
+      A passionate Cyber Security analyst from Raleigh, NC, USA
+
+      <a href="https://www.linkedin.com/in/elvis-njenga23/">Follow me on Linkedin</a>
 
 I'm currently learning the basics of computers both the hardware and software, and also learning the basics of Information Technology and Cybersecurity.
 I'm a current work study student working in the Computer lab at my community college and am studying Computer Science. 
